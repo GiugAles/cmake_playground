@@ -1,0 +1,1 @@
+include("${CMAKE_CURRENTLIST_DIR}/FooTargets.cmake")
